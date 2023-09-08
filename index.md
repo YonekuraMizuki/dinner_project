@@ -1,16 +1,11 @@
 ## 今日の夕食のメニュー
 
-[ごはん](./dinnerE.md)
-![ごはん](./ごはん.avif)
+[![ごはん](ごはん.avif)](dinnerE.md)
 
-[とんかつ](./dinnerA.md)
-![とんかつ](./とんかつ.avif)
+[![とんかつ](./とんかつ.avif)](dinnerA.md)
 
-[タマゴサラダ](./dinnerB.md)
-![タマゴサラダ](./egg.avif)
+[![タマゴサラダ](./egg.avif)](./dinnerB.md)
 
-[みそ汁](./dinnerC.md)
-![みそ汁](./みそ汁.avif)
+[![みそ汁](./みそ汁.avif)](./dinnerC.md)
 
-[プリンアラモード](./dinneD.md)
-![プリンアラモード](./プリンアラモード.avif)
+[![プリンアラモード](./プリンアラモード.avif)](./dinneD.md)
