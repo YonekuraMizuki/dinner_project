@@ -1,5 +1,11 @@
 引用サイト https://cookpad.com/recipe/6694678
 
+材料
+- いちご
+- プリン
+- ホイップクリーム
+
+
 ```mermaid
 graph TD;
 Todo[プリンアラモードを作る]
